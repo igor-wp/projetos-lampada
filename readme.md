@@ -1,2 +1,1 @@
-Projeto para ligar e desligar imagem de uma lâmpada usando javascript
-Princiapis funcões utilizadas: onmouseover, onmouseout e onclick
+Projeto para ligar e desligar a imagem de uma lâmpada usando a linguagem de programação JavaScript
